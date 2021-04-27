@@ -1,0 +1,5 @@
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.csprojAssemblyReference.cache
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.AssemblyInfoInputs.cache
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.AssemblyInfo.cs
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.csproj.CoreCompileInputs.cache
