@@ -3,3 +3,14 @@ C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debu
 C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.AssemblyInfoInputs.cache
 C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.AssemblyInfo.cs
 C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.csproj.CoreCompileInputs.cache
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\bin\Debug\net5.0\CSIntermediateClasses.exe
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\bin\Debug\net5.0\CSIntermediateClasses.deps.json
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\bin\Debug\net5.0\CSIntermediateClasses.runtimeconfig.json
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\bin\Debug\net5.0\CSIntermediateClasses.runtimeconfig.dev.json
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\bin\Debug\net5.0\CSIntermediateClasses.dll
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\bin\Debug\net5.0\ref\CSIntermediateClasses.dll
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\bin\Debug\net5.0\CSIntermediateClasses.pdb
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.dll
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\ref\CSIntermediateClasses.dll
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.pdb
+C:\Users\eleah\source\repos\CSIntermediateClasses\CSIntermediateClasses\obj\Debug\net5.0\CSIntermediateClasses.genruntimeconfig.cache
