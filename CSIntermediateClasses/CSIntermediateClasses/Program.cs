@@ -9,7 +9,15 @@ namespace CSIntermediateClasses
             
         }
 
-        static void UsePoints()
+        /*static void UseParams()
+        {
+            var calculator = new Calculator();
+            Console.WriteLine(calculator.Add(1, 2));
+            Console.WriteLine(calculator.Add(1, 2, 3));
+            Console.WriteLine(calculator.Add(1, 2, 3, 4));
+        }*/
+
+        /*static void UsePoints()
         {
             try
             {
@@ -22,10 +30,10 @@ namespace CSIntermediateClasses
                 Console.WriteLine("An unexpected error occurred.");
             }
 
-            /*var customer = new Customer(1, "Jim");
+            *//*var customer = new Customer(1, "Jim");
             Console.WriteLine(customer.Id);
-            Console.WriteLine(customer.Name);*/
+            Console.WriteLine(customer.Name);*//*
 
-        }
+        }*/
     }
 }
