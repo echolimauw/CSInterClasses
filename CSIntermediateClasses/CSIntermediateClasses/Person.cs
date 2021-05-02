@@ -1,22 +1,19 @@
-﻿/*using System;
+﻿using System;
 
 namespace CSIntermediateClasses
 {
     public class Person
     {
-        public string Name;
+        private DateTime _birthdate;
 
-        public void Introduce(string to)
+        public void SetBirthdate(DateTime birthdate)
         {
-            Console.WriteLine("Hi (0), I am (1).", to, Name);
+            _birthdate = birthdate;
         }
 
-        public Person Parse(string str)
+        public DateTime GetBirthdate()
         {
-            var person = new Person();
-            person.Name = str;
-
-            return person;
+            return _birthdate;
         }
     }
-}*/
+}
