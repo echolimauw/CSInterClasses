@@ -7,14 +7,14 @@ namespace CSIntermediateClasses
     {
         public int Id;
         public string Name;
-        public List<Order> Orders;
+        public readonly List<Order> Orders = new();
 
-        public Customer()
+        /*public Customer()
         {
             Orders = new List<Order>();
-        }
+        }*/
+
         public Customer(int id)
-            : this()
         {
             this.Id = id;
         }

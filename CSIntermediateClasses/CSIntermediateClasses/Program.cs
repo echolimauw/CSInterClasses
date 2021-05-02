@@ -6,7 +6,11 @@ namespace CSIntermediateClasses
     {
         static void Main(string[] args)
         {
-            
+            var customer = new Customer(1);
+            customer.Orders.Add(new Order());
+            customer.Orders.Add(new Order());
+
+            Console.WriteLine(customer.Orders.Count);
         }
 
         /*static void UseParams()
@@ -15,9 +19,9 @@ namespace CSIntermediateClasses
             Console.WriteLine(calculator.Add(1, 2));
             Console.WriteLine(calculator.Add(1, 2, 3));
             Console.WriteLine(calculator.Add(1, 2, 3, 4));
-        }*/
+        }
 
-        /*static void UsePoints()
+        static void UsePoints()
         {
             try
             {
