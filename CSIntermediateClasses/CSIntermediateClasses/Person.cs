@@ -4,16 +4,25 @@ namespace CSIntermediateClasses
 {
     public class Person
     {
-        private DateTime _birthdate;
+        public string Name { get; set; }
+        public string Username { get; set; }
+        public DateTime Birthdate { get; private set; }
 
-        public void SetBirthdate(DateTime birthdate)
+        public Person(DateTime birthdate)
         {
-            _birthdate = birthdate;
+            Birthdate = birthdate;
         }
+        
 
-        public DateTime GetBirthdate()
+        public int Age
         {
-            return _birthdate;
+            get
+            {
+                var timespan = DateTime.Today - Birthdate;
+                var years = timespan.Days / 365;
+
+                return years;
+            }
         }
     }
 }

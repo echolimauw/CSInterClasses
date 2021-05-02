@@ -5,7 +5,8 @@
     {
         static void Main(string[] args)
         {
-            var person = new Person();
+            var person = new Person(new System.DateTime(1987, 1, 22));
+            System.Console.WriteLine(person.Age);
         }
 
         /*static void UseParams()
